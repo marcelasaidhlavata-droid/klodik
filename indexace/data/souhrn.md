@@ -20,6 +20,13 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-20 | VařímeDobroty.cz | 48 | 47 | 1 | 0 |
 | 2026-10-20 | VědaŽivě.cz | 46 | 44 | 2 | 0 |
 | **2026-10-20** | **celkem** | **313** | **296** | **17** | **0** |
+| 2026-10-21 | Chalupáři-Zahrádkáři | 108 | 100 | 8 | 0 |
+| 2026-10-21 | MMAMAG.cz | 48 | 47 | 1 | 0 |
+| 2026-10-21 | Mobify.cz | 59 | 57 | 2 | 0 |
+| 2026-10-21 | SportyŽivě | 73 | 67 | 6 | 0 |
+| 2026-10-21 | VařímeDobroty.cz | 60 | 59 | 1 | 0 |
+| 2026-10-21 | VědaŽivě.cz | 58 | 55 | 3 | 0 |
+| **2026-10-21** | **celkem** | **406** | **385** | **21** | **0** |
 
 ## Změny kanonické URL mezi kontrolami
 
@@ -36,3 +43,6 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-20 | SportyŽivě | 2026-10-16 15:44 | centrum.cz → zdroj | [Američan s českými kořeny pomohl Pardubicím k titulu a pobláznil fanou](https://www.centrum.cz/clanek/american-s-ceskymi-koreny-pomohl-pardubicim-k-titulu-a-poblaznil-fanousky-lekari-mu-ted-vystavili-definitivni-stopku-321534) |
 | 2026-10-20 | VařímeDobroty.cz | 2026-10-16 07:53 | centrum.cz → zdroj | [Vyzkoušela jsem virální recept na domácí Kinder mléčný řez a musím říc](https://www.centrum.cz/clanek/vyzkousela-jsem-viralni-recept-na-domaci-kinder-mlecny-rez-a-musim-rict-ze-chutna-jeste-lip-nez-original-vrele-doporucuji-321894) |
 | 2026-10-20 | VědaŽivě.cz | 2026-10-16 08:00 | centrum.cz → zdroj | [Včely medonosné a divoké pijí stejný nektar. Experiment na italském os](https://www.centrum.cz/clanek/vcely-medonosne-a-divoke-piji-stejny-nektar-experiment-na-italskem-ostrove-ukazal-kdo-prohraje-souboj-o-kvety-a-proc-321048) |
+| 2026-10-21 | Chalupáři-Zahrádkáři | 2026-10-17 07:00 | centrum.cz → zdroj | [Obyčejný hrnek z kredence může mít cenu bytu v Praze. Stačí ho přidrže](https://www.centrum.cz/clanek/obycejny-hrnek-z-kredence-muze-mit-cenu-bytu-v-praze-staci-ho-pridrzet-proti-svetlu-a-prohlednout-si-dno-321861) |
+| 2026-10-21 | Chalupáři-Zahrádkáři | 2026-10-20 08:00 | zdroj → centrum.cz | [Azalky u zdi domu kvetou dvakrát déle než uprostřed zahrady. Tam často](https://www.centrum.cz/clanek/azalky-u-zdi-domu-kvetou-dvakrat-dele-nez-uprostred-zahrady-tam-castokrat-nepreziji-ani-prvni-zimu-324240) |
+| 2026-10-21 | VědaŽivě.cz | 2026-10-17 06:00 | centrum.cz → zdroj | [Psí olizování spouští v mozku endorfiny u psa i člověka současně. Půvo](https://www.centrum.cz/clanek/psi-olizovani-spousti-v-mozku-endorfiny-u-psa-i-cloveka-soucasne-puvod-ritualu-saha-k-prvnim-vdechum-novorozeneho-stenete-321838) |
