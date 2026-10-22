@@ -27,6 +27,13 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-21 | VařímeDobroty.cz | 60 | 59 | 1 | 0 |
 | 2026-10-21 | VědaŽivě.cz | 58 | 55 | 3 | 0 |
 | **2026-10-21** | **celkem** | **406** | **385** | **21** | **0** |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 125 | 115 | 10 | 0 |
+| 2026-10-22 | MMAMAG.cz | 60 | 59 | 1 | 0 |
+| 2026-10-22 | Mobify.cz | 60 | 54 | 6 | 0 |
+| 2026-10-22 | SportyŽivě | 103 | 94 | 9 | 0 |
+| 2026-10-22 | VařímeDobroty.cz | 71 | 69 | 2 | 0 |
+| 2026-10-22 | VědaŽivě.cz | 68 | 62 | 6 | 0 |
+| **2026-10-22** | **celkem** | **487** | **453** | **34** | **0** |
 
 ## Změny kanonické URL mezi kontrolami
 
@@ -46,3 +53,18 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-21 | Chalupáři-Zahrádkáři | 2026-10-17 07:00 | centrum.cz → zdroj | [Obyčejný hrnek z kredence může mít cenu bytu v Praze. Stačí ho přidrže](https://www.centrum.cz/clanek/obycejny-hrnek-z-kredence-muze-mit-cenu-bytu-v-praze-staci-ho-pridrzet-proti-svetlu-a-prohlednout-si-dno-321861) |
 | 2026-10-21 | Chalupáři-Zahrádkáři | 2026-10-20 08:00 | zdroj → centrum.cz | [Azalky u zdi domu kvetou dvakrát déle než uprostřed zahrady. Tam často](https://www.centrum.cz/clanek/azalky-u-zdi-domu-kvetou-dvakrat-dele-nez-uprostred-zahrady-tam-castokrat-nepreziji-ani-prvni-zimu-324240) |
 | 2026-10-21 | VědaŽivě.cz | 2026-10-17 06:00 | centrum.cz → zdroj | [Psí olizování spouští v mozku endorfiny u psa i člověka současně. Půvo](https://www.centrum.cz/clanek/psi-olizovani-spousti-v-mozku-endorfiny-u-psa-i-cloveka-soucasne-puvod-ritualu-saha-k-prvnim-vdechum-novorozeneho-stenete-321838) |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 2026-10-16 07:00 | centrum.cz → zdroj | [Prababičky sypaly jedlou sodu do rohů a hmyz zmizel. Když k ní přidáte](https://www.centrum.cz/clanek/prababicky-sypaly-jedlou-sodu-do-rohu-a-hmyz-zmizel-kdyz-k-ni-pridate-cukr-a-vodu-vznikne-smrtici-past-i-na-odolne-druhy-320994) |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 2026-10-16 17:00 | zdroj → centrum.cz | [Prázdný regál první den akce není smůla, ale záměr. Zákon to zakazuje,](https://www.centrum.cz/clanek/prazdny-regal-prvni-den-akce-neni-smula-ale-zamer-zakon-to-zakazuje-jenze-obchody-znaji-formulku-ktera-je-chrani-321591) |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 2026-10-18 07:00 | centrum.cz → zdroj | [Okrasný strom s oranžovým kmenem roste i v tom největším vedru a suchu](https://www.centrum.cz/clanek/okrasny-strom-s-oranzovym-kmenem-roste-i-v-tom-nejvetsim-vedru-a-suchu-na-jihu-evropy-se-ale-vymkl-kontrole-a-siri-se-jako-plevel-322524) |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 2026-10-18 18:00 | centrum.cz → zdroj | [Česnek zasazený v kyselé půdě pod pH 5 nevyklíčí vůbec. Stačí jedna úp](https://www.centrum.cz/clanek/cesnek-zasazeny-v-kysele-pude-pod-ph-5-nevyklici-vubec-staci-jedna-uprava-zahonu-na-podzim-a-jarni-uroda-bude-dvojnasobna-322981) |
+| 2026-10-22 | Chalupáři-Zahrádkáři | 2026-10-21 08:00 | zdroj → centrum.cz | [Kdo mulčuje kůrou nebo slámou, dělá zbytečnou práci. Pod stromy i v zá](https://www.centrum.cz/clanek/kdo-mulcuje-kurou-nebo-slamou-dela-zbytecnou-praci-pod-stromy-i-v-zahonech-existuji-rostliny-ktere-plevel-udusi-samy-325148) |
+| 2026-10-22 | Mobify.cz | 2026-10-16 06:58 | centrum.cz → zdroj | [Kaufland to prodává za 267 Kč, Apple to uměl před 20 lety. Microsoft s](https://www.centrum.cz/clanek/kaufland-to-prodava-za-267-kc-apple-to-umel-pred-20-lety-microsoft-se-chlubi-magnetickym-kabelem-v-notebooku-za-170-tisic-320990) |
+| 2026-10-22 | Mobify.cz | 2026-10-17 12:41 | centrum.cz → zdroj | [AI od Anthropicu sama vyplnila formulář policie a nahlásila smyšlenou ](https://www.centrum.cz/clanek/ai-od-anthropicu-sama-vyplnila-formular-policie-a-nahlasila-smyslenou-vrazdu-firma-to-zjistila-az-po-dvou-mesicich-322162) |
+| 2026-10-22 | Mobify.cz | 2026-10-17 20:19 | centrum.cz → zdroj | [Hacknuté PS5 láká na pirátské hry, ale Sony vám zablokuje konzoli i úč](https://www.centrum.cz/clanek/hacknute-ps5-laka-na-piratske-hry-ale-sony-vam-zablokuje-konzoli-i-ucet-prijdete-o-vsechny-drive-koupene-tituly-322406) |
+| 2026-10-22 | Mobify.cz | 2026-10-18 08:23 | centrum.cz → zdroj | [Podvodníci už umí dokonale napodobit hlas vašeho bankéře. Policie ukáz](https://www.centrum.cz/clanek/podvodnici-uz-umi-dokonale-napodobit-hlas-vaseho-bankere-policie-ukazala-jak-snadno-naletite-i-vy-322588) |
+| 2026-10-22 | SportyŽivě | 2026-10-16 11:41 | centrum.cz → zdroj | [Válka o hokejové dresy za stovky milionů. Kanada a USA se soudí s fede](https://www.centrum.cz/clanek/valka-o-hokejove-dresy-za-stovky-milionu-kanada-a-usa-se-soudi-s-federaci-jejiz-jsou-cleny-321280) |
+| 2026-10-22 | SportyŽivě | 2026-10-21 13:27 | zdroj → centrum.cz | [Trpišovský prozradil, co mu po zápase řekl Lukaku. Osobní část rozhovo](https://www.centrum.cz/clanek/trpisovsky-prozradil-co-mu-po-zapase-rekl-lukaku-osobni-cast-rozhovoru-si-necham-pro-sebe-dodal-s-usmevem-325570) |
+| 2026-10-22 | VařímeDobroty.cz | 2026-10-17 07:32 | centrum.cz → zdroj | [Jen kuřecí maso, brambory a pár dalších surovin – můj oblíbený recept,](https://www.centrum.cz/clanek/jen-kureci-maso-brambory-a-par-dalsich-surovin-muj-oblibeny-recept-kdyz-se-mi-nechce-stat-dlouho-u-plotny-322542) |
+| 2026-10-22 | VědaŽivě.cz | 2026-10-17 18:00 | centrum.cz → zdroj | [Gotické sklepy Konopiště jsou vytesány přímo v žulovém podloží. Jeden ](https://www.centrum.cz/clanek/goticke-sklepy-konopiste-jsou-vytesany-primo-v-zulovem-podlozi-jeden-prostor-nikdo-neotevrel-polohu-znala-jen-dcera-majitele-322352) |
+| 2026-10-22 | VědaŽivě.cz | 2026-10-19 08:28 | centrum.cz → zdroj | [Skvělá zpráva pro Čechy jedoucí k moři: Za čekání ve frontě dostanete ](https://www.centrum.cz/clanek/skvela-zprava-pro-cechy-jedouci-k-mori-za-cekani-ve-fronte-dostanete-od-cervna-penize-zpet-323279) |
+| 2026-10-22 | VědaŽivě.cz | 2026-10-19 17:31 | centrum.cz → zdroj | [Banánové nebezpečí v obchodě. Hnědé skvrny na slupce signalizují rozkl](https://www.centrum.cz/clanek/bananove-nebezpeci-v-obchode-hnede-skvrny-na-slupce-signalizuji-rozklad-skrobu-muze-za-to-amylaza-323923) |
