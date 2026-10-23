@@ -34,6 +34,13 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-22 | VařímeDobroty.cz | 71 | 69 | 2 | 0 |
 | 2026-10-22 | VědaŽivě.cz | 68 | 62 | 6 | 0 |
 | **2026-10-22** | **celkem** | **487** | **453** | **34** | **0** |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 142 | 130 | 12 | 0 |
+| 2026-10-23 | MMAMAG.cz | 74 | 72 | 2 | 0 |
+| 2026-10-23 | Mobify.cz | 67 | 62 | 5 | 0 |
+| 2026-10-23 | SportyŽivě | 129 | 119 | 10 | 0 |
+| 2026-10-23 | VařímeDobroty.cz | 83 | 82 | 1 | 0 |
+| 2026-10-23 | VědaŽivě.cz | 78 | 70 | 8 | 0 |
+| **2026-10-23** | **celkem** | **573** | **535** | **38** | **0** |
 
 ## Změny kanonické URL mezi kontrolami
 
@@ -68,3 +75,19 @@ Kanonická URL podle Googlu: **centrum.cz** = Google indexuje kopii na centrum.c
 | 2026-10-22 | VědaŽivě.cz | 2026-10-17 18:00 | centrum.cz → zdroj | [Gotické sklepy Konopiště jsou vytesány přímo v žulovém podloží. Jeden ](https://www.centrum.cz/clanek/goticke-sklepy-konopiste-jsou-vytesany-primo-v-zulovem-podlozi-jeden-prostor-nikdo-neotevrel-polohu-znala-jen-dcera-majitele-322352) |
 | 2026-10-22 | VědaŽivě.cz | 2026-10-19 08:28 | centrum.cz → zdroj | [Skvělá zpráva pro Čechy jedoucí k moři: Za čekání ve frontě dostanete ](https://www.centrum.cz/clanek/skvela-zprava-pro-cechy-jedouci-k-mori-za-cekani-ve-fronte-dostanete-od-cervna-penize-zpet-323279) |
 | 2026-10-22 | VědaŽivě.cz | 2026-10-19 17:31 | centrum.cz → zdroj | [Banánové nebezpečí v obchodě. Hnědé skvrny na slupce signalizují rozkl](https://www.centrum.cz/clanek/bananove-nebezpeci-v-obchode-hnede-skvrny-na-slupce-signalizuji-rozklad-skrobu-muze-za-to-amylaza-323923) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-16 06:00 | zdroj → centrum.cz | [Když dojde WC blok, zkušené hospodyňky sáhnou po mýdle za pár korun. M](https://www.centrum.cz/clanek/kdyz-dojde-wc-blok-zkusene-hospodynky-sahnou-po-mydle-za-par-korun-misa-je-zarive-bila-a-vune-vydrzi-cele-dny-320970) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-16 08:00 | zdroj → centrum.cz | [Žluté záclony nepotřebují bělidlo ani chemii. Aspirin rozpuštěný v pra](https://www.centrum.cz/clanek/zlute-zaclony-nepotrebuji-belidlo-ani-chemii-aspirin-rozpusteny-v-pracce-vrati-belost-kterou-bezne-prani-nedokaze-321041) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-17 07:00 | centrum.cz → zdroj | [Příliš mnoho urychlovače v kompostu je horší než žádný. Výsledek za 8 ](https://www.centrum.cz/clanek/prilis-mnoho-urychlovace-v-kompostu-je-horsi-nez-zadny-vysledek-za-8-tydnu-je-vsak-realny-321860) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-17 07:00 | centrum.cz → zdroj | [Kdo seká trávník v létě příliš nízko, dělá z holých míst pozvánku pro ](https://www.centrum.cz/clanek/kdo-seka-travnik-v-lete-prilis-nizko-dela-z-holych-mist-pozvanku-pro-jetel-a-pampelisky-opravit-to-jde-ale-stoji-to-mesice-321859) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-17 16:00 | centrum.cz → zdroj | [Tupé nůžky na zahradě trhají rostliny a zvyšují riziko infekce. Pasta ](https://www.centrum.cz/clanek/tupe-nuzky-na-zahrade-trhaji-rostliny-a-zvysuji-riziko-infekce-pasta-z-koupelny-je-naostri-za-5-minut-bez-jedineho-nastroje-322297) |
+| 2026-10-23 | Chalupáři-Zahrádkáři | 2026-10-18 08:00 | centrum.cz → zdroj | [Kdo na podzim neodstraní z růží každý list, na jaře ho čeká plísňová n](https://www.centrum.cz/clanek/kdo-na-podzim-neodstrani-z-ruzi-kazdy-list-na-jare-ho-ceka-plisnova-nakaza-zkuseni-zahradnici-delaji-jeste-jeden-krok-navic-322564) |
+| 2026-10-23 | MMAMAG.cz | 2026-10-16 11:37 | centrum.cz → zdroj | [Kincl, nebo Humburger. Redakce tipuje vítěze hlavního zápasu OKTAGONu ](https://www.centrum.cz/clanek/kincl-nebo-humburger-redakce-tipuje-viteze-hlavniho-zapasu-oktagonu-95-321273) |
+| 2026-10-23 | Mobify.cz | 2026-10-16 09:34 | zdroj → centrum.cz | [Samsung vrací 10 tisíc Kč za nový tablet, ale jen u dražšího modelu. L](https://www.centrum.cz/clanek/samsung-vraci-10-tisic-kc-za-novy-tablet-ale-jen-u-drazsiho-modelu-levnejsi-nabizi-temer-totez-a-stoji-vyrazne-mene-321114) |
+| 2026-10-23 | Mobify.cz | 2026-10-17 12:41 | zdroj → centrum.cz | [AI od Anthropicu sama vyplnila formulář policie a nahlásila smyšlenou ](https://www.centrum.cz/clanek/ai-od-anthropicu-sama-vyplnila-formular-policie-a-nahlasila-smyslenou-vrazdu-firma-to-zjistila-az-po-dvou-mesicich-322162) |
+| 2026-10-23 | SportyŽivě | 2026-10-16 11:39 | centrum.cz → zdroj | [Procházkův přemožitel nedostal šanci o titul a zuří. Pereira obvinil U](https://www.centrum.cz/clanek/prochazkuv-premozitel-nedostal-sanci-o-titul-a-zuri-pereira-obvinil-ufc-i-legendarniho-cormiera-z-rizene-kampane-321274) |
+| 2026-10-23 | SportyŽivě | 2026-10-16 14:26 | centrum.cz → zdroj | [Vejmelka vychytal výhru na ledě Edmontonu a Chytil přispěl asistencí h](https://www.centrum.cz/clanek/vejmelka-vychytal-vyhru-na-lede-edmontonu-a-chytil-prispel-asistenci-hned-po-navratu-z-dvoumesicni-marodky-321466) |
+| 2026-10-23 | SportyŽivě | 2026-10-19 12:23 | centrum.cz → zdroj | [Pastrňák využil chybu soupeře a rozjel obrat Bostonu. S dvanácti body ](https://www.centrum.cz/clanek/pastrnak-vyuzil-chybu-soupere-a-rozjel-obrat-bostonu-s-dvanacti-body-je-nejproduktivnejsim-cechem-v-cele-nhl-323550) |
+| 2026-10-23 | SportyŽivě | 2026-10-22 13:29 | zdroj → centrum.cz | [Potlučená obrana Sparty volá o pomoc. Klub finišuje příchod mistra svě](https://www.centrum.cz/clanek/potlucena-obrana-sparty-vola-o-pomoc-klub-finisuje-prichod-mistra-sveta-a-dvojnasobneho-viteze-stanley-cupu-326442) |
+| 2026-10-23 | SportyŽivě | 2026-10-22 13:38 | zdroj → centrum.cz | [Fernandes zkritizoval pokyny z lavičky, Carrick se ohradil. Manchester](https://www.centrum.cz/clanek/fernandes-zkritizoval-pokyny-z-lavicky-carrick-se-ohradil-manchester-united-ceka-na-vyhru-sedm-zapasu-v-rade-326455) |
+| 2026-10-23 | VařímeDobroty.cz | 2026-10-17 07:32 | zdroj → centrum.cz | [Jen kuřecí maso, brambory a pár dalších surovin – můj oblíbený recept,](https://www.centrum.cz/clanek/jen-kureci-maso-brambory-a-par-dalsich-surovin-muj-oblibeny-recept-kdyz-se-mi-nechce-stat-dlouho-u-plotny-322542) |
+| 2026-10-23 | VědaŽivě.cz | 2026-10-18 17:00 | centrum.cz → zdroj | [Dobrmanka porazila stovky psů na největší výstavě světa. Rozhodly prop](https://www.centrum.cz/clanek/dobrmanka-porazila-stovky-psu-na-nejvetsi-vystave-sveta-rozhodly-proporce-ktere-slechtitele-ladi-od-19-stoleti-322955) |
